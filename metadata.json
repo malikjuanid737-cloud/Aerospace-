@@ -1,0 +1,6 @@
+{
+  "name": "AeroLuxe",
+  "description": "Luxurious high-end flight booking application with real-time analytics, AI travel assistant, and visual booking journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

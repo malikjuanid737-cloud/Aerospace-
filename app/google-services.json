@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733138422082",
+    "project_id": "airlines-e8b40",
+    "storage_bucket": "airlines-e8b40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733138422082:android:21227aa504d5bcb02fe0db",
+        "android_client_info": {
+          "package_name": "com.airlines.sky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Oat06Zlct59EQVscyHzrEDV8cWouofY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
